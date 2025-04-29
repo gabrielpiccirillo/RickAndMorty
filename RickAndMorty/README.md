@@ -11,13 +11,13 @@ Para executar este projeto, você precisará clonar este reposotório e seguir a
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/cadu1324/teste-desenvolvimento-front-end.git
+git clone https://github.com/gabrielpiccirillo/RickAndMorty.git
 ```
 
 2. Acesse o diretório:
 
 ```bash
-cd teste-desenvolvimento-front-end
+cd RickAndMorty
 ```
 
 3. Instale as dependências:
