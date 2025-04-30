@@ -32,6 +32,10 @@ npm install
 npm start
 ```
 
+## Vizualização da Aplicação
+
+- <img src="/ExecProjeto.png">
+
 ## Observações
 
 - Este projeto foi desenvolvido com fins didáticos.
